@@ -7,7 +7,7 @@ import random
 # 1. qte_call(context_text , iftext , elsetext , timer=3)
 # 2. explorational_question(option1 , option2 , option3 , response1 , response2 , response3 , error_statement , else_statement)
 
-__author__ = "Divyanshu Panda"
+__author__ = "knowingocean831"
 __version__ = "0.1.0"
 __description__ = "A lightweight text-based game engine for Python developers."
 
@@ -140,4 +140,5 @@ def sp(Time=2):
      time.sleep(time)
 
 if __name__ == "__main__":
+
     print(f"this module is made by {__author__} , version:- {__version__}")
