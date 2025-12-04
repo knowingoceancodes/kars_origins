@@ -132,7 +132,11 @@ def cprint(Text , duration=0.06):
           time.sleep(duration)
 
 def sp(Time=2):
-     time.sleep(time)
+     time.sleep(Time)
+    
+def lp(Time-5)
+    time.sleep(Time)
 
 if __name__ == "__main__":
+
     print(f"this module is made by {__author__} , version:- {__version__}")
